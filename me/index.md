@@ -4,7 +4,7 @@ layout: about
 
 Hi, my name is Andrew Bass. I'm a UI/UX designer who has spent the last year helping over a dozen startups scope out and design their MVPs.
 
-# What makes you different?
+# What makes me different?
 
 I believe that the best products are those that align their users needs with the business' goals. That's where the magic happens.
 
