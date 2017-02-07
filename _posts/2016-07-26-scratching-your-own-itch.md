@@ -2,7 +2,7 @@
 layout: post
 title: Scratching Your Own Itch
 ---
-![Obama Scratching his head](https://cdn-images-1.medium.com/max/800/1*AdIRTUXO2Sz02mN_LfDB0g.jpeg)
+<img src= "https://cdn-images-1.medium.com/max/800/1*AdIRTUXO2Sz02mN_LfDB0g.jpeg" style= "display: block; max-width:100%; margin-bottom:3em;"/>
 
 My wife asks me at least once a day to scratch her head. And this guy, trying to be a good husband, obliges her.
 
