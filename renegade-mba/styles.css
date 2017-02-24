@@ -1,0 +1,10 @@
+body{
+  background-color: #282828;
+  text-align: center;
+  color: white;
+  font-family: Helvetica;
+}
+.logo{
+  display:block;
+  max-width: 100%;
+}
